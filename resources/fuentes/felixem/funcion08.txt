@@ -1,0 +1,7 @@
+int funcion(int arg)
+{
+}
+
+int main()
+{
+}
