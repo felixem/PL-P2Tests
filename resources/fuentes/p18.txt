@@ -1,0 +1,10 @@
+
+int f()
+{
+  int a,b,c,d,e,f,g,h[12][33/****/;
+
+  /* Error 3 (4,35): encontrado ';', esperaba ]  */
+}
+main()
+{
+}

@@ -1,0 +1,10 @@
+
+main()
+{
+  double a;
+  int v[10]
+
+  a = 7;
+
+  /* Error 3 (7,3): encontrado 'a', esperaba ; , [  */
+}

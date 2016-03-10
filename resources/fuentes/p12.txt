@@ -1,0 +1,6 @@
+main()
+{
+  int a;
+
+  a = 7+    
+/* Error 4: encontrado final de fichero, esperaba entero identificador real */

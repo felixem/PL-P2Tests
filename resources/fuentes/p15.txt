@@ -1,0 +1,9 @@
+int f()
+{
+  double b;
+  int a;
+
+  b = 7.5+2.5;/*
+*/
+  a = 2*b;  /* Error 8 (8,3): 'a' debe ser de tipo real */
+}

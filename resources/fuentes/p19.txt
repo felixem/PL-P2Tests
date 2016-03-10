@@ -1,0 +1,10 @@
+
+double fff()
+{
+  double dd[22],;
+
+  /* Error 3 (4,17): encontrado ';', esperaba identificador */
+}
+main()
+{
+}

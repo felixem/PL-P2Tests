@@ -1,0 +1,6 @@
+int funcion()
+{
+  int a;
+
+  a = /**/funcion; /* Error 7 (5,11): 'funcion' no es una variable */
+}

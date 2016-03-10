@@ -1,0 +1,25 @@
+
+int f()
+{
+  int a,b,c;
+
+  a=7;
+  b=a+3;
+  c=b/10;
+}
+double dist()
+{
+  int v[0],matriz[10][100];
+  double d[3][3][3][3];
+
+  {
+     double v,a,d;
+
+     v=877.778;
+     a=v/100;
+     d=a-0.77778;
+  }  
+}
+main()
+{
+}

@@ -1,0 +1,11 @@
+int main()
+{
+  int a;
+
+  {
+    int a;
+
+    a = 7;
+  }
+  /***/double a[5][15][3]; /* Error 5 (10,15): 'a' ya existe en este ambito */
+}

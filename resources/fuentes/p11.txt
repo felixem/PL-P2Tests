@@ -1,0 +1,8 @@
+main()
+{
+  int a;
+}
+double fun()  /* Error 3 (5,1): encontrado 'double', esperaba final de fichero */
+{
+  int a;
+}
